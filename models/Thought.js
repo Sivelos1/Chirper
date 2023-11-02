@@ -1,4 +1,4 @@
-const { Schema, model } = require('mongoose');
+const { Schema, model, Types } = require('mongoose');
 
 const Reaction = new Schema({
   reactionId: {
@@ -23,7 +23,7 @@ const thoughtSchema = new Schema(
   {
     _id: {
       type: Schema.Types.ObjectId,
-      default: () => new Schema.Types.ObjectId(),
+      default: () => new Types.ObjectId(),
       required: true,
     },
     thoughtText:{
