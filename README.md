@@ -1,5 +1,7 @@
 # Chirper (Social Media API)
 
+  ![image](https://github.com/Sivelos1/Chirper/assets/21207337/e10a954e-a457-4f5c-b32f-c7ef55846536)
+
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
